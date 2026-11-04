@@ -1,5 +1,5 @@
 {
-  "name": "edgeone-on-demand-isr",
+  "name": "next-isr-template",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
